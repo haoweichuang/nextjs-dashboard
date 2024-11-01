@@ -1,6 +1,6 @@
 import SideNav from "@/app/ui/dashboard/sidenav";
 
-export const experimental_ppr = true;
+// export const experimental_ppr = true; //Compatible with lint version next-v15.0.0
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
